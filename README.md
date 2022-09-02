@@ -4,10 +4,10 @@
 + [연결 리스트](https://github.com/postpone-jin/tech-interview/blob/main/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 + Array & ArrayList & LinkedList
 + [스택 & 큐](https://github.com/postpone-jin/tech-interview/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90.md)
-+ 힙
++ [힙](https://github.com/postpone-jin/tech-interview/blob/main/%ED%9E%99.md)
 + 그래프
-+ 트리
-+ 이진 탐색 트리
++ [트리](https://github.com/postpone-jin/tech-interview/blob/main/%ED%8A%B8%EB%A6%AC.md)
++ [이진 탐색 트리](https://github.com/postpone-jin/tech-interview/blob/main/%ED%8A%B8%EB%A6%AC.md)
 + 해시
 + B Tree
 
