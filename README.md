@@ -12,7 +12,7 @@
 + B Tree
 
 ### :bookmark_tabs: 알고리즘 16개(정렬 8개, 기타 8개)
-+ 거품 정렬(Bubble sort)
++ [거품 정렬(Bubble sort)](https://github.com/postpone-jin/tech-interview/blob/main/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
 + 선택 정렬(Selection sort)
 + 삽입 정렬(Insertion sort)
 + 퀵 정렬(Quick sort)
