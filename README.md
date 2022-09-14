@@ -1,32 +1,32 @@
 ## :pushpin: 자료 구조 & 알고리즘
 ### :bookmark_tabs: 자료 구조 9개
-+ [배열](https://github.com/postpone-jin/tech-interview/blob/main/%EB%B0%B0%EC%97%B4.md)
-+ [연결 리스트](https://github.com/postpone-jin/tech-interview/blob/main/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
++ [배열](https://github.com/YuYejin/tech-interview/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%B0%B0%EC%97%B4.md)
++ [연결 리스트](https://github.com/YuYejin/tech-interview/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
 + Array & ArrayList & LinkedList
-+ [스택 & 큐](https://github.com/postpone-jin/tech-interview/blob/main/%EC%8A%A4%ED%83%9D%26%ED%81%90.md)
-+ [힙](https://github.com/postpone-jin/tech-interview/blob/main/%ED%9E%99.md)
++ [스택 & 큐](https://github.com/YuYejin/tech-interview/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%8A%A4%ED%83%9D%26%ED%81%90.md)
++ [힙](https://github.com/YuYejin/tech-interview/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%9E%99.md)
 + 그래프
-+ [트리](https://github.com/postpone-jin/tech-interview/blob/main/%ED%8A%B8%EB%A6%AC.md)
-+ [이진 탐색 트리](https://github.com/postpone-jin/tech-interview/blob/main/%ED%8A%B8%EB%A6%AC.md)
++ [트리](https://github.com/YuYejin/tech-interview/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%8A%B8%EB%A6%AC.md)
++ [이진 탐색 트리](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
 + 해시
 + B Tree
 
 ### :bookmark_tabs: 알고리즘 16개(정렬 8개, 기타 8개)
-+ [거품 정렬(Bubble sort)](https://github.com/postpone-jin/tech-interview/blob/main/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
-+ [선택 정렬(Selection sort)](https://github.com/postpone-jin/tech-interview/blob/main/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
-+ [삽입 정렬(Insertion sort)](https://github.com/postpone-jin/tech-interview/blob/main/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
-+ [퀵 정렬(Quick sort)](https://github.com/postpone-jin/tech-interview/blob/main/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
-+ [병합 정렬(Merge sort)](https://github.com/postpone-jin/tech-interview/blob/main/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC.md)
-+ [힙 정렬(Heap sort)](https://github.com/YuYejin/tech-interview/blob/main/%ED%9E%99%20%EC%A0%95%EB%A0%AC.md)
++ [거품 정렬(Bubble sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B2%84%EB%B8%94%20%EC%A0%95%EB%A0%AC.md)
++ [선택 정렬(Selection sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.md)
++ [삽입 정렬(Insertion sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.md)
++ [퀵 정렬(Quick sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%80%B5%20%EC%A0%95%EB%A0%AC.md)
++ [병합 정렬(Merge sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC.md)
++ [힙 정렬(Heap sort)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%9E%99%20%EC%A0%95%EB%A0%AC.md)
 + 기수 정렬(Radix sort)
 + 계수 정렬(Counting sort)
-+ [이분 탐색(Binary search)](https://github.com/YuYejin/tech-interview/blob/main/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
-+ [해시 테이블(Hash table)](https://github.com/postpone-jin/tech-interview/blob/main/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94.md)
-+ DFS & BFS
-+ 최장 증가 수열(LIS)
-+ 최소 공통 조상(LCA)
-+ 동적 계획법(DP)
-+ 다익스트라(Dijkstra) 알고리즘
++ [이분 탐색(Binary search)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
++ [해시 테이블(Hash table)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94.md)
++ [DFS & BFS](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS%26BFS.md)
++ [최장 증가 수열(LIS)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%B5%9C%EC%9E%A5%20%EC%A6%9D%EA%B0%80%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4(LIS).md)
++ [최소 공통 조상(LCA)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%B5%9C%EC%86%8C%20%EA%B3%B5%ED%86%B5%20%EC%A1%B0%EC%83%81(LCA).md)
++ [동적 계획법(DP)](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.md)
++ [다익스트라(Dijkstra) 알고리즘](https://github.com/YuYejin/tech-interview/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC.md)
 + 비트마스크(BitMask)
 
 ### :bookmark_tabs: 기술 면접 질문 모음
